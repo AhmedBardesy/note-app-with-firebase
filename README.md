@@ -1,4 +1,4 @@
 # notes_app_firebase
 
-in this app i use firebase services to signin and login via email&password or google account
-can add a note folder that contains a notes which we can update and delete also add images to the note
+In this app, I utilize Firebase services for signing in and logging in via email & password or Google account.
+Users can create a note folder to store notes that can be updated, deleted, and also include images.
